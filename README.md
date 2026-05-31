@@ -1,6 +1,7 @@
 ## Matheus Costa
 
-Estudante de Ciência da Computação na Universidade Federal de Minas Gerais **UFMG** , com foco em segurança da informação, redes e desenvolvimento de software.
+Estudante de Ciência da Computação na Universidade Federal de Minas Gerais **(UFMG)** , com foco em segurança da informação, redes e desenvolvimento de software.
+Atualmente membro da divisão de web hacking do FireUai, projeto de extensão focado em cibersegurança.
 
 ---
 
@@ -9,6 +10,11 @@ Estudante de Ciência da Computação na Universidade Federal de Minas Gerais **
 - 🛡️ **Cibersegurança & CTFs:** Entusiasta de segurança ofensiva e defensiva.
 - ⚙️ **Desenvolvimento Backend:** Aprofundamento no código por trás dos programas.
 - 🗄️ **Bancos de Dados:** Modelagem, otimização de queries e gerenciamento de dados (SQL / NoSQL).
+
+---
+
+### **Redes Sociais**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-costa-5313293ab)
 
 ---
 
@@ -23,8 +29,6 @@ Estudante de Ciência da Computação na Universidade Federal de Minas Gerais **
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### **Redes Sociais**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-costa-5313293ab)
 
 
 
